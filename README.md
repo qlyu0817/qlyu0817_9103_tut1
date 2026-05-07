@@ -36,7 +36,7 @@ This is my first local change to the repo!
 
 ![An image of a kookaburra](https://cdn.pixabay.com/photo/2021/08/06/21/54/kookaburra-6527294_1280.jpg)
 
-![An image of Mona Lisa](READImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+![An image of Mona Lisa](READMEImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
 Make sure to run `setup()` first.
 
@@ -61,16 +61,14 @@ function helloWorld() {
 
 ### Reference images and coding techniques
 
-[Google Homepage](https://www.google.com/)
-
 ![load and play sound coding technique 1](https://editor.p5js.org/p5/sketches/Sound:_Load_and_Play_Sound/)
 
-![An image of load and play sound 1](READImages/loadandplaysound.jpg)
+![An image of load and play sound 1](READMEImages/loadandplaysound.jpg)
 
 ![load and play sound coding technique 2](https://websoundart.org/articles/20231217_tutorial-6-p5sound/)
 
-![An image of load and play sound 2](READImages/loadandplaysound2.jpg)
+![An image of load and play sound 2](READMEImages/loadandplaysound2.jpg)
 
 ![play and pause coding technique](https://editor.p5js.org/kjhollen/sketches/ByZILENim/)
 
-![An image of play and pause coding technique](READImages/playandpause.jpg)
+![An image of play and pause coding technique](READMEImages/playandpause.jpg)
