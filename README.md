@@ -67,14 +67,14 @@ function helloWorld() {
 
 ### Reference images and coding techniques
 
-![load and play sound coding technique 1](https://editor.p5js.org/p5/sketches/Sound:_Load_and_Play_Sound/)
+[load and play sound coding technique 1](https://editor.p5js.org/p5/sketches/Sound:_Load_and_Play_Sound/)
 
 ![An image of load and play sound 1](READMEImages/loadandplaysound.jpg)
 
-![load and play sound coding technique 2](https://websoundart.org/articles/20231217_tutorial-6-p5sound/)
+[load and play sound coding technique 2](https://websoundart.org/articles/20231217_tutorial-6-p5sound/)
 
 ![An image of load and play sound 2](READMEImages/loadandplaysound2.jpg)
 
-![play and pause coding technique](https://editor.p5js.org/kjhollen/sketches/ByZILENim/)
+[play and pause coding technique](https://editor.p5js.org/kjhollen/sketches/ByZILENim/)
 
 ![An image of play and pause coding technique](READMEImages/playandpause.jpg)
