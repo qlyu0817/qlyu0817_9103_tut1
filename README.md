@@ -55,6 +55,12 @@ function helloWorld() {
 
 1. The example I found most inspiring is an interactive animated character that plays different instrument sounds when you click on different parts of the screen. Each click triggers a new sound layer, and they gradually stack up into a complete piece of music. What I'd love to bring into my project is this idea of progressive sound-layering through interaction, where the user isn't just listening, but actively building the music themselves. This technique fits my project well because it makes the experience feel like a performance, and the payoff of hearing everything come together is genuinely satisfying.
 
+### Example images
+
+![The first image of Example](READMEImages/RustyLake1.jpg)
+
+![The first image of Example](READMEImages/RustyLake2.jpg)
+
 ## Coding Technique Exploration
 
 2. The coding technique I'd like to use is p5.js with the p5.sound library, specifically loadSound() and mousePressed() to trigger and layer multiple audio tracks interactively. Since my role focuses on using sound level or frequency content to drive the project's mechanic, this is a natural starting point. Each click adds a new audio layer, and from there, p5.sound's amplitude and FFT tools can read the live level or frequency data to drive visual changes, directly linking user interaction to the core behaviour of the project.

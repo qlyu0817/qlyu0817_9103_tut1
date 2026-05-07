@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "READMEImages"
+		},
+		{
+			"path": "assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "w9"
+	}
+}
